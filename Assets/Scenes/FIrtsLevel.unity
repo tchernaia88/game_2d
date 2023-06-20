@@ -2017,6 +2017,7 @@ MonoBehaviour:
   playerRigidbody2D: {fileID: 1379420817}
   speed: 0.5
   jumpSpeed: 190
+  animatorPlayer: {fileID: 1379420819}
 --- !u!95 &1379420819
 Animator:
   serializedVersion: 3
